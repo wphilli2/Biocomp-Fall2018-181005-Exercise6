@@ -3,6 +3,7 @@
 ## Fork your TA’s GitHub repo to get started. Submit your solutions via a pull request on GitHub by the beginning of tutorial on Friday.
 
 1. Write R code that replicates the functionality of the head function we used in Unix. Your code should define a variable with the file to return lines from and a variable representing the number of lines to be returned from the top of the indicated file. The selected file content should be printed to the terminal in R.
+- use the 'iris.csv' file to complete this
 
 2. Load the data contained in the provided ‘iris.csv’ file and write R code to do the following things
 - print the last 2 rows in the last 2 columns to the R terminal
