@@ -1,4 +1,4 @@
-# Biocomp-Fall2018-181004-Exercise6
+# Biocomp-Fall2018-181005-Exercise6
 
 ## Fork your TA’s GitHub repo to get started. Submit your solutions via a pull request on GitHub by the beginning of tutorial on Friday.
 
