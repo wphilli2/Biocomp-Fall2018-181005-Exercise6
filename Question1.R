@@ -2,3 +2,5 @@ setwd("/Users/willphillips/desktop/Introduction to Biocomputing/exercise6/Biocom
 file1<-read.csv("iris.csv")
 lines<-5
 file1[0:lines, ]
+
+## Brittni: You can put both questions in one script!
